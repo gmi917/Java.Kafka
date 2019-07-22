@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/kafka_2.11-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/kafka_2.11-1.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/scala-library-2.11.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/scala-logging_2.11-3.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/kafka-clients-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/zkclient-0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/zookeeper-3.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/jackson-annotations-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/jackson-core-2.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ivanzkchou/eclipse-workspace/Kafka/jackson-databind-2.9.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
